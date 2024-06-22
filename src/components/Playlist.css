@@ -1,0 +1,11 @@
+.playlist {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .playlist-item {
+    margin: 10px;
+    width: 150px;
+    text-align: center;
+  }
+  
